@@ -1,0 +1,185 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1230]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1015 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity3D Projects\MyGame\Catchem_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity3D Projects\MyGame\Catchem_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity3D Projects\MyGame\Catchem_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity3D Projects\MyGame\Catchem_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity3D Projects\MyGame\Catchem_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity3D Projects\MyGame\Catchem_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity3D Projects\MyGame\Catchem_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Unity3D Projects\MyGame\Catchem_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.322107 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Total: 0.657066 ms (FindLiveObjects: 0.014526 ms CreateObjectMapping: 0.012571 ms MarkObjects: 0.105041 ms  DeleteObjects: 0.005866 ms)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 63)
+
+UnloadTime: 1.159644 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 96.
+Total: 2.387174 ms (FindLiveObjects: 0.062019 ms CreateObjectMapping: 0.038273 ms MarkObjects: 0.163149 ms  DeleteObjects: 0.431339 ms)
+
